@@ -20,4 +20,9 @@ You can check out the live project here: [Coeditor](https://coeditor.msameerahme
 
 ## Demo
 
-Check out the video to see Coeditor in action!
+Check out 
+
+https://github.com/Sameer-Ahmed1/Coeditor/assets/97391681/6c539059-87f4-46df-8141-0afd408e34c0
+
+the video to see Coeditor in action!
+
